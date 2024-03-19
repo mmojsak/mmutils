@@ -23,6 +23,6 @@ setup(
     },
     install_requires=[
         "numpy>=1.12.0",
-        "pickle>=3.0.0"
+        "Pint>=0.23"
     ]
 )
